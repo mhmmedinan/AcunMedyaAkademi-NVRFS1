@@ -144,7 +144,7 @@ while (true)
 Console.WriteLine("Names List:");
 foreach(string name in names)
 {
-    Console.WriteLine($"- {name}");
+    Console.WriteLine($"- {name} ");
 }
 
 
